@@ -28,10 +28,6 @@ This project helped me develop my understanding of Java and object-oriented prog
 - Working with multiple objects that interact with each other.
 - Parsing user commands and managing simulation state.
 
-## Demo
-
-A video demonstration of the simulation will be added here.
-
 ## About
 
 Created for a university programming assignment to practise object-oriented design and Java development.
